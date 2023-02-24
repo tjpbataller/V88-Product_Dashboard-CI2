@@ -1,0 +1,11 @@
+form input.number{
+    width: 70px !important;
+}
+section#review p.review,
+section#review p.comment{
+    min-height: 100px !important;
+}
+form label.form-label{
+    margin-top: 16px !important;
+    margin-bottom: 2px;
+}
